@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @navarajkharel
-- 👀 I’m interested in Blockhain
-- 🌱 I’m currently learning about Blockchain Development
+- 👀 I’m 
+- 🌱 I’m 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
